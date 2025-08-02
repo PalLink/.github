@@ -47,7 +47,7 @@ We’re building the future of Palworld server modding with a strong focus on **
 Whether you’re a reverse engineer, plugin developer, web dev, designer, or tester — there’s a place for you.
 
 ### To contribute to the plugin manager (`PalLink`):
-👉 Check out our [Contributing Guide](https://github.com/PalLink/.github/CONTRIBUTING.md)
+👉 Check out our [Contributing Guide](https://github.com/PalLink/.github/blob/main/CONTRIBUTING.md)
 
 ### To get involved with the website or Discord bot:
 👉 Reach out to us directly on [Discord](#-community--support)
