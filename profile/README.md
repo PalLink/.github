@@ -22,9 +22,8 @@ PalLink provides the foundation for:
 
 This organization hosts the **PalLink ecosystem**, including:
 
-- 🧠 The **core Plugin Manager** (`PalLink`)
-- 🔌 The **Plugin Interface** (`PalPlugin`)
-- 🔧 Internal tools for development and debugging
+- [PalLink](https://github.com/PalLink/PalLink) - The **core Plugin Manager**
+- [PalPlugin](https://github.com/PalLink/PalPlugin) - The **Plugin Interface**
 
 ---
 
@@ -48,7 +47,7 @@ We’re building the future of Palworld server modding with a strong focus on **
 Whether you’re a reverse engineer, plugin developer, web dev, designer, or tester — there’s a place for you.
 
 ### To contribute to the plugin manager (`PalLink`):
-👉 Check out our [Contributing Guide](https://github.com/PalLink/CONTRIBUTING.md)
+👉 Check out our [Contributing Guide](https://github.com/PalLink/.github/CONTRIBUTING.md)
 
 ### To get involved with the website or Discord bot:
 👉 Reach out to us directly on [Discord](#-community--support)
